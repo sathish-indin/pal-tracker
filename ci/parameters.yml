@@ -31,7 +31,7 @@ github-private-key: |-
 aws-bucket: "student-artifacts-watters"
 aws-access-key-id: "AKIAIBR6HWLSXEDQ47AQ"
 aws-secret-access-key: "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"
-cf-api-url: "https://apps.sys.evans.pal.pivotal.io/"
+cf-api-url: "https://apps.sys.evans.pal.pivotal.io"
 cf-username: "srganesh@hcl.com"
 cf-password: "vh5fs8p8"
 cf-org: "srinivasaragavan-ganesan"
